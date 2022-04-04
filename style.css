@@ -1,0 +1,21 @@
+/* .price{
+    background-image: url("Image/house.jpg") ;
+    background-repeat: no-repeat;
+    width: 1400px;
+    opacity: 0.7;
+} */
+
+.about1{
+    background-color: rgb(229, 248, 248);
+}
+
+/* Footer  */
+.form1{
+    background-color:rgb(251, 151, 58);
+   
+}
+.footer1{
+    background-color: rgb(131, 136, 132);
+    margin-bottom: -3.5rem;
+    color: white;
+}
